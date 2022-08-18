@@ -1,5 +1,6 @@
 body{
-    min-height: 900px;
+    /* min-height: 1500px; */
+    min-height: 9000px;
 }
 .logo{
     padding-left: 40px;
@@ -7,11 +8,7 @@ body{
 a{
     font-size: large;
 }
-#navbar{
-    padding-right: 26px;
-    font-size: larger;
-    /* margin: 12px; */
-}
+
 .container{
     margin: 0 10%;
 }
@@ -47,4 +44,7 @@ a{
 }
 .top-wrapper{
     font-size: larger;
+}
+section{
+    padding-top: 7rem;
 }
