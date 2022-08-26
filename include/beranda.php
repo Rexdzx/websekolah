@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-<body id="beranda">
+<body id=" beranda">
     <!-- navbar -->
     <header>
         <nav class="navbar navbar-expand-lg navbar fixed-top" style="background-color: #e3f2fd;  padding: 9px 10px;">

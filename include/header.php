@@ -11,7 +11,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous">
 </script>
-<link rel="stylesheet" href="../assets/css/style.css">
+<link rel="stylesheet" href="./assets/css/style.css">
 
 <body id="beranda">
     <!-- navbar -->
@@ -19,11 +19,11 @@
         <nav class="navbar navbar-expand-lg navbar fixed-top" style="background-color: #e3f2fd;  padding: 9px 10px;">
             <div class="logo">
                 <div class="logo_flex">
-                    <img src="../assets/img/logo.png" width="90" height="90" alt="Logo" /><br />
+                    <img src="./assets/img/logo.png" width="90" height="90" alt="Logo" /><br />
                 </div>
             </div>
             <div class="container-fluid" id="container">
-                <a href="../include/beranda.php">SMK BIMA UTOMO BS</a>
+                <a href="./include/beranda.php">SMK BIMA UTOMO BS</a>
                 <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                     aria-label="Toggle navigation">
