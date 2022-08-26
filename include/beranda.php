@@ -24,9 +24,10 @@
                 </div>
             </div>
             <div class="container-fluid" id="container">
-                <a href="index.php">SMK BIMA UTOMO BS</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <a href="../include/beranda.php">SMK BIMA UTOMO BS</a>
+                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse pe-5 me-5" id="navbarNav">
@@ -38,18 +39,18 @@
                         <li class="nav-item">
                             <a class="nav-link text-black" href="#ekstrakurikuler">Ekstrakurikuler</a>
                             <ul class="list-links">
-                                <li><a href="akademik/pencaksilat.php">Pencak Silat</a></li>
-                                <li><a href="akademik/rohis.php">Rohani Islam</a></li>
-                                <li><a href="akademik/tari.php">Tari</a></li>
-                                <li><a href="akademik/pramuka.php">Pramuka</a></li>
+                                <li><a href="../ekstrakurikuler/pencak-silat.php">Pencak Silat</a></li>
+                                <li><a href="../ekstrakurikuler/seni-tari.php">Seni Tari</a></li>
+                                <li><a href="../ekstrakurikuler/rohis.php">Rohani Islam</a></li>
+                                <li><a href="../ekstrakurikuler/pramuka.php">Pramuka</a></li>
                             </ul>
                         <li class="nav-item">
                             <a class="nav-link text-black" href="#kompetensikeahlian">Kompetensi Keahlian</a>
                             <ul class="list-links">
-                                <li><a href="akademik/silabus.php">RRL</a></li>
-                                <li><a href="akademik/kalender.php">TKR</a></li>
-                                <li><a href="akademik/artikel.php">TKJ</a></li>
-                                <li><a href="akademik/berita.php">TBSM</a></li>
+                                <li><a href="../jurusan/Rekayasa Perangkat Lunak.php">RPL</a></li>
+                                <li><a href="../jurusan/Teknik Kendaraan Ringan.php">TKR</a></li>
+                                <li><a href="../jurusan/Teknik Komputer dan Jaringan.php">TKJ</a></li>
+                                <li><a href="../jurusan/Teknik Bisnis Sepeda Motor.php">TBSM</a></li>
                             </ul>
                         <li class="nav-item">
                             <a class="nav-link text-black" href="#peta">Peta</a>
@@ -86,18 +87,20 @@
             </div>
             <div class="about">
                 <p>
-                    <strong>SMK SWASTA BIMA UTOMO BS</strong> adalah salah satu satuan pendidikan dengan jenjang SMK di
+                    <b>SMK SWASTA BIMA UTOMO BS</b><br> adalah salah satu satuan
+                    pendidikan dengan jenjang SMK
+                    di
                     Sidodadi, Kec. Batang Kuis, Kab. Deli Serdang, Sumatera Utara. Dalam menjalankan kegiatannya, SMK
                     SWASTA BIMA UTOMO BS berada di bawah naungan Kementerian Pendidikan dan Kebudayaan.
                 </p>
                 </p>
-                <strong>Alamat SMK SWASTA BIMA UTOMO BS</strong>
+                <b>Alamat SMK SWASTA BIMA UTOMO BS</b><br>
 
                 SMK SWASTA BIMA UTOMO BS beralamat di Jalan Ampera Dusun I, Sidodadi, Kec. Batang Kuis, Kab. Deli
                 Serdang, Sumatera Utara, dengan kode pos 20372.
                 </p>
                 <p>
-                    <strong>Kontak yang dapat dihubungi</strong>
+                    <b>Kontak yang dapat dihubungi</b><br>
 
                     Apabila anda ingin bertanya atau menghubungi langsung SMK SWASTA BIMA UTOMO BS, dapat melalui
                     beberapa media. Apabila ingin mengirimkan surat elektronik (email), dapat dikirimkan ke
@@ -105,7 +108,7 @@
                 </p>
                 <p>
 
-                    <strong>Akreditasi</strong>
+                    <b>Akreditasi</b><Br>
 
                     SMK SWASTA BIMA UTOMO BS memiliki akreditasi A, berdasarkan sertifikat 860/BANSM/PROVSU/LL/XII/2018.
 
